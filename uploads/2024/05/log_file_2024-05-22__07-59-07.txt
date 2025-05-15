@@ -1,0 +1,120 @@
+
+---Downloaded files---
+The import files for: Indofact were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://z0k.ffc.myftpupload.com
+Data file = /var/www/wp-content/plugins/tmc-edata-options/one-click-importer/demo-data/demo/content.xml
+Widget file = /var/www/wp-content/plugins/tmc-edata-options/one-click-importer/demo-data/demo/widgets.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Right Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Categories - No Title - Imported
+
+Left Sidebar : 
+
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Services Sidebar : 
+
+TMC Service Menu - No Title - Imported
+TMC Posts - No Title - Imported
+
+Shop Sidebar : 
+
+Filter Products by Price - Filter by price - Imported
+Product Categories - Product categories - Imported
+Products by Rating list - Top rated products - Imported
+
+Footer widget 1 : 
+
+TMC Have Widget - No Title - Imported
+
+Footer widget 2 : 
+
+TMC Footer Menu - Our Solutions - Imported
+
+Footer widget 3 : 
+
+TMC Footer Menu - Quick Links - Imported
+
+Footer widget 4 : 
+
+TMC Footer Socials - Social Info - Imported
+
+
+
+---ocdi/after_import---
+ Slider processed

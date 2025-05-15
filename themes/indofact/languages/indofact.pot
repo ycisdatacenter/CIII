@@ -1,0 +1,2603 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: woocommerce/cart/cart.php:37
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-09 12:10+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:33
+msgid "404"
+msgstr ""
+
+#: 404.php:36
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: 404.php:39
+msgid "Go Back to home"
+msgstr ""
+
+#: comments.php:27
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:30
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:33
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:42
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:57
+msgid "Search"
+msgstr ""
+
+#: functions.php:158
+msgid "Primary"
+msgstr ""
+
+#: functions.php:159
+msgid "Footer One"
+msgstr ""
+
+#: functions.php:160
+msgid "Footer Two"
+msgstr ""
+
+#: functions.php:161
+msgid "Service"
+msgstr ""
+
+#: functions.php:167 index.php:119 vc_templates/tmc_blog_full.php:81
+msgid "Read more"
+msgstr ""
+
+#: functions.php:260
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:261
+msgid "Add widgets here to appear in Right Sidebar"
+msgstr ""
+
+#: functions.php:271
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:272
+msgid "Add widgets here to appear in Left Sidebar"
+msgstr ""
+
+#: functions.php:282
+msgid "Services Sidebar"
+msgstr ""
+
+#: functions.php:283
+msgid "Add widgets here to appear in Services Sidebar"
+msgstr ""
+
+#: functions.php:292
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:293
+msgid "Add widgets here to appear in Shop sidebar"
+msgstr ""
+
+#: functions.php:306
+msgid "Footer widget "
+msgstr ""
+
+#: functions.php:307
+msgid "Add widgets here to appear in Footer Widget Area"
+msgstr ""
+
+#: functions.php:382
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:387
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:393
+msgctxt "Lato Serif font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:394
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:480
+msgid "BUY NOW"
+msgstr ""
+
+#: functions.php:500
+msgid "Theme Activate"
+msgstr ""
+
+#: index.php:82
+msgid ", "
+msgstr ""
+
+#: index.php:122 page.php:12 single-portfolio.php:12 single.php:99
+msgid "Pages:"
+msgstr ""
+
+#: index.php:152 search.php:66
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: index.php:154
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: page.php:16 single-portfolio.php:16
+msgid "Page"
+msgstr ""
+
+#: searchform.php:3
+msgid "Enter Search Keywords"
+msgstr ""
+
+#: inc/theme-essential.php:56
+msgid "Enter Your Name"
+msgstr ""
+
+#: inc/theme-essential.php:57
+msgid "Enter Your Email"
+msgstr ""
+
+#: inc/theme-essential.php:69
+msgid "Enter Your Website Url"
+msgstr ""
+
+#: inc/theme-essential.php:93
+msgid "Pingback:"
+msgstr ""
+
+#: inc/theme-essential.php:93
+msgid "(Edit)"
+msgstr ""
+
+#: inc/theme-essential.php:110
+msgid "Post author"
+msgstr ""
+
+#: inc/theme-essential.php:114
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/theme-essential.php:126
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/theme-essential.php:128
+msgid "Reply"
+msgstr ""
+
+#: inc/theme-essential.php:129
+msgid "Edit"
+msgstr ""
+
+#: inc/theme-essential.php:528
+msgid "Search Results"
+msgstr ""
+
+#: inc/theme-essential.php:534
+msgid "Page not found"
+msgstr ""
+
+#: inc/visual-composer.php:58
+msgid "Gallery type"
+msgstr ""
+
+#: inc/visual-composer.php:61
+msgid "Image grid"
+msgstr ""
+
+#: inc/visual-composer.php:62
+msgid "Slick slider"
+msgstr ""
+
+#: inc/visual-composer.php:63
+msgid "Slick slider 2"
+msgstr ""
+
+#: inc/visual-composer.php:68
+msgid "Thumbnail size"
+msgstr ""
+
+#: inc/visual-composer.php:77 inc/visual-composer.php:103
+#: inc/visual-composer.php:129
+msgid "Css"
+msgstr ""
+
+#: inc/visual-composer.php:79 inc/visual-composer.php:105
+#: inc/visual-composer.php:131
+msgid "Design options"
+msgstr ""
+
+#: inc/visual-composer.php:85
+msgid "Responsiveness"
+msgstr ""
+
+#: inc/visual-composer.php:87
+msgid "Width & Responsiveness"
+msgstr ""
+
+#: inc/visual-composer.php:88
+msgid ""
+"Adjust column for different screen sizes. Control width, offset and "
+"visibility settings."
+msgstr ""
+
+#: inc/visual-composer.php:94 inc/tgm/tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: inc/visual-composer.php:97
+msgid "Type 1"
+msgstr ""
+
+#: inc/visual-composer.php:98
+msgid "Type 2"
+msgstr ""
+
+#: inc/visual-composer.php:111
+msgid "Video Width"
+msgstr ""
+
+#: inc/visual-composer.php:116
+msgid "Preview Image"
+msgstr ""
+
+#: inc/visual-composer.php:121
+msgid "Image Size"
+msgstr ""
+
+#: inc/visual-composer.php:123
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"projects_gallery\" "
+"size."
+msgstr ""
+
+#: inc/visual-composer.php:137
+msgid "Icon"
+msgstr ""
+
+#: inc/visual-composer.php:144
+msgid "Icon Size (px)"
+msgstr ""
+
+#: inc/visual-composer.php:151
+msgid "Icon - Position"
+msgstr ""
+
+#: inc/visual-composer.php:154 inc/visual-composer.php:2570
+msgid "Left"
+msgstr ""
+
+#: inc/visual-composer.php:155 inc/visual-composer.php:2571
+msgid "Right"
+msgstr ""
+
+#: inc/visual-composer.php:156
+msgid "Top"
+msgstr ""
+
+#: inc/visual-composer.php:157 inc/visual-composer.php:178
+msgid "Bottom"
+msgstr ""
+
+#: inc/visual-composer.php:163
+msgid "Subtitle"
+msgstr ""
+
+#: inc/visual-composer.php:169
+msgid "Subtitle - Color"
+msgstr ""
+
+#: inc/visual-composer.php:175
+msgid "Stripe - Position"
+msgstr ""
+
+#: inc/visual-composer.php:179
+msgid "Between Title and Subtitle"
+msgstr ""
+
+#: inc/visual-composer.php:180
+msgid "Hide"
+msgstr ""
+
+#: inc/visual-composer.php:186
+msgid "Font weight"
+msgstr ""
+
+#: inc/visual-composer.php:189
+msgid "Select"
+msgstr ""
+
+#: inc/visual-composer.php:190
+msgid "Thin"
+msgstr ""
+
+#: inc/visual-composer.php:191
+msgid "Light"
+msgstr ""
+
+#: inc/visual-composer.php:192
+msgid "Regular"
+msgstr ""
+
+#: inc/visual-composer.php:193
+msgid "Medium"
+msgstr ""
+
+#: inc/visual-composer.php:194
+msgid "Semi-bold"
+msgstr ""
+
+#: inc/visual-composer.php:195
+msgid "Bold"
+msgstr ""
+
+#: inc/visual-composer.php:196
+msgid "Black"
+msgstr ""
+
+#: inc/visual-composer.php:204
+msgid "Gap"
+msgstr ""
+
+#: inc/visual-composer.php:207
+msgid "0px"
+msgstr ""
+
+#: inc/visual-composer.php:208
+msgid "1px"
+msgstr ""
+
+#: inc/visual-composer.php:209
+msgid "2px"
+msgstr ""
+
+#: inc/visual-composer.php:210
+msgid "3px"
+msgstr ""
+
+#: inc/visual-composer.php:211
+msgid "4px"
+msgstr ""
+
+#: inc/visual-composer.php:212
+msgid "5px"
+msgstr ""
+
+#: inc/visual-composer.php:213
+msgid "10px"
+msgstr ""
+
+#: inc/visual-composer.php:214
+msgid "15px"
+msgstr ""
+
+#: inc/visual-composer.php:215
+msgid "20px"
+msgstr ""
+
+#: inc/visual-composer.php:216
+msgid "25px"
+msgstr ""
+
+#: inc/visual-composer.php:217
+msgid "30px"
+msgstr ""
+
+#: inc/visual-composer.php:218
+msgid "35px"
+msgstr ""
+
+#: inc/visual-composer.php:219
+msgid "40px"
+msgstr ""
+
+#: inc/visual-composer.php:220
+msgid "45px"
+msgstr ""
+
+#: inc/visual-composer.php:221
+msgid "50px"
+msgstr ""
+
+#: inc/visual-composer.php:222
+msgid "55px"
+msgstr ""
+
+#: inc/visual-composer.php:223
+msgid "60px"
+msgstr ""
+
+#: inc/visual-composer.php:226
+msgid "Select gap between grid elements."
+msgstr ""
+
+#: inc/visual-composer.php:233
+msgid "Color"
+msgstr ""
+
+#: inc/visual-composer.php:235
+msgid "Select button color."
+msgstr ""
+
+#: inc/visual-composer.php:238
+msgid "Theme Style 1"
+msgstr ""
+
+#: inc/visual-composer.php:239
+msgid "Theme Style 2"
+msgstr ""
+
+#: inc/visual-composer.php:240
+msgid "Theme Style 3"
+msgstr ""
+
+#: inc/visual-composer.php:241
+msgid "Theme Style 4"
+msgstr ""
+
+#: inc/visual-composer.php:242
+msgid "Classic Grey"
+msgstr ""
+
+#: inc/visual-composer.php:243
+msgid "Classic Blue"
+msgstr ""
+
+#: inc/visual-composer.php:244
+msgid "Classic Turquoise"
+msgstr ""
+
+#: inc/visual-composer.php:245
+msgid "Classic Green"
+msgstr ""
+
+#: inc/visual-composer.php:246
+msgid "Classic Orange"
+msgstr ""
+
+#: inc/visual-composer.php:247
+msgid "Classic Red"
+msgstr ""
+
+#: inc/visual-composer.php:248
+msgid "Classic Black"
+msgstr ""
+
+#: inc/visual-composer.php:267 vc_templates/tmc_projects.php:218
+#: vc_templates/tmc_projects.php:381 vc_templates/tmc_projects.php:643
+msgid "All"
+msgstr ""
+
+#: inc/visual-composer.php:279
+msgid "Single Section"
+msgstr ""
+
+#: inc/visual-composer.php:281 inc/visual-composer.php:760
+#: inc/visual-composer.php:1493 inc/visual-composer.php:1625
+#: inc/visual-composer.php:1682 inc/visual-composer.php:1751
+#: inc/visual-composer.php:1971 inc/visual-composer.php:2084
+#: inc/visual-composer.php:2228 inc/visual-composer.php:2317
+#: inc/visual-composer.php:2400 inc/visual-composer.php:2436
+#: inc/visual-composer.php:2452 inc/visual-composer.php:2547
+#: inc/visual-composer.php:2668 inc/visual-composer.php:2753
+#: inc/visual-composer.php:3101 inc/visual-composer.php:3181
+#: inc/visual-composer.php:3349
+msgid "TMC Elements"
+msgstr ""
+
+#: inc/visual-composer.php:282
+msgid "Display single section"
+msgstr ""
+
+#: inc/visual-composer.php:287 inc/visual-composer.php:766
+#: inc/visual-composer.php:2553 inc/visual-composer.php:2759
+#: inc/visual-composer.php:3285 inc/visual-composer.php:3355
+msgid "Layout"
+msgstr ""
+
+#: inc/visual-composer.php:289 inc/visual-composer.php:768
+#: inc/visual-composer.php:2555 inc/visual-composer.php:2761
+#: inc/visual-composer.php:3357
+msgid "The layout your section being display"
+msgstr ""
+
+#: inc/visual-composer.php:291 inc/visual-composer.php:2560
+msgid "Heading and Text"
+msgstr ""
+
+#: inc/visual-composer.php:292
+msgid "Heading and Image"
+msgstr ""
+
+#: inc/visual-composer.php:293
+msgid "Bold Heading and Image"
+msgstr ""
+
+#: inc/visual-composer.php:294
+msgid "Heading and Text two"
+msgstr ""
+
+#: inc/visual-composer.php:295
+msgid "Company History"
+msgstr ""
+
+#: inc/visual-composer.php:296
+msgid "Static"
+msgstr ""
+
+#: inc/visual-composer.php:297
+msgid "Need Support"
+msgstr ""
+
+#: inc/visual-composer.php:298
+msgid "Contact Help"
+msgstr ""
+
+#: inc/visual-composer.php:299
+msgid "Contact Help Two"
+msgstr ""
+
+#: inc/visual-composer.php:300 inc/visual-composer.php:2561
+msgid "Any Question"
+msgstr ""
+
+#: inc/visual-composer.php:301
+msgid "Who We Are"
+msgstr ""
+
+#: inc/visual-composer.php:302
+msgid "Best Thing In Wordpress"
+msgstr ""
+
+#: inc/visual-composer.php:303
+msgid "Who We Are Two"
+msgstr ""
+
+#: inc/visual-composer.php:305
+msgid "Who We Are Three"
+msgstr ""
+
+#: inc/visual-composer.php:306
+msgid "Static Two"
+msgstr ""
+
+#: inc/visual-composer.php:307
+msgid "Static Three"
+msgstr ""
+
+#: inc/visual-composer.php:308
+msgid "Certification"
+msgstr ""
+
+#: inc/visual-composer.php:309
+msgid "Best Thing In Wordpress Two"
+msgstr ""
+
+#: inc/visual-composer.php:310
+msgid "Agriculture One"
+msgstr ""
+
+#: inc/visual-composer.php:311
+msgid "Agriculture Three"
+msgstr ""
+
+#: inc/visual-composer.php:312
+msgid "Electronic One Image"
+msgstr ""
+
+#: inc/visual-composer.php:313
+msgid "Electronic Three"
+msgstr ""
+
+#: inc/visual-composer.php:314
+msgid "Factory Three"
+msgstr ""
+
+#: inc/visual-composer.php:315
+msgid "Gas One"
+msgstr ""
+
+#: inc/visual-composer.php:316
+msgid "About Left"
+msgstr ""
+
+#: inc/visual-composer.php:321
+msgid "Year"
+msgstr ""
+
+#: inc/visual-composer.php:336
+msgid "Background Color"
+msgstr ""
+
+#: inc/visual-composer.php:348 inc/visual-composer.php:808
+#: inc/visual-composer.php:1522 inc/visual-composer.php:1654
+#: inc/visual-composer.php:1695 inc/visual-composer.php:1892
+#: inc/visual-composer.php:1998 inc/visual-composer.php:2041
+#: inc/visual-composer.php:2108 inc/visual-composer.php:2249
+#: inc/visual-composer.php:2341 inc/visual-composer.php:2465
+#: inc/visual-composer.php:2608 inc/visual-composer.php:2691
+#: inc/visual-composer.php:2793 inc/visual-composer.php:3305
+msgid "Title"
+msgstr ""
+
+#: inc/visual-composer.php:381
+msgid "Title Two"
+msgstr ""
+
+#: inc/visual-composer.php:397
+msgid "Title Three"
+msgstr ""
+
+#: inc/visual-composer.php:410
+msgid "Sub-Title"
+msgstr ""
+
+#: inc/visual-composer.php:426 inc/visual-composer.php:506
+#: inc/visual-composer.php:543 inc/visual-composer.php:824
+#: inc/visual-composer.php:2625 inc/visual-composer.php:2812
+msgid "Description"
+msgstr ""
+
+#: inc/visual-composer.php:429 inc/visual-composer.php:509
+#: inc/visual-composer.php:546 inc/visual-composer.php:827
+#: inc/visual-composer.php:890 inc/visual-composer.php:952
+#: inc/visual-composer.php:1014 inc/visual-composer.php:1705
+#: inc/visual-composer.php:2628 inc/visual-composer.php:2815
+#: inc/visual-composer.php:3131 inc/visual-composer.php:3138
+#: inc/visual-composer.php:3145
+msgid "Enter description here."
+msgstr ""
+
+#: inc/visual-composer.php:452 inc/visual-composer.php:869
+#: inc/visual-composer.php:2831
+msgid "Line One"
+msgstr ""
+
+#: inc/visual-composer.php:470 inc/visual-composer.php:931
+#: inc/visual-composer.php:2845
+msgid "Line Two"
+msgstr ""
+
+#: inc/visual-composer.php:488 inc/visual-composer.php:993
+#: inc/visual-composer.php:2859
+msgid "Line Three"
+msgstr ""
+
+#: inc/visual-composer.php:522 inc/visual-composer.php:840
+#: inc/visual-composer.php:904 inc/visual-composer.php:966
+#: inc/visual-composer.php:1689 inc/visual-composer.php:2407
+#: inc/visual-composer.php:2582 inc/visual-composer.php:2776
+msgid "Image"
+msgstr ""
+
+#: inc/visual-composer.php:558
+msgid "Number"
+msgstr ""
+
+#: inc/visual-composer.php:573
+msgid "Icon One"
+msgstr ""
+
+#: inc/visual-composer.php:587
+msgid "Number Two"
+msgstr ""
+
+#: inc/visual-composer.php:603 inc/visual-composer.php:2596
+msgid "Image Two"
+msgstr ""
+
+#: inc/visual-composer.php:616
+msgid "Icon Two"
+msgstr ""
+
+#: inc/visual-composer.php:631
+msgid "Number Three"
+msgstr ""
+
+#: inc/visual-composer.php:646
+msgid "Icon Three"
+msgstr ""
+
+#: inc/visual-composer.php:660
+msgid "Number Four"
+msgstr ""
+
+#: inc/visual-composer.php:675
+msgid "Icon Four"
+msgstr ""
+
+#: inc/visual-composer.php:688 inc/visual-composer.php:1027
+#: inc/visual-composer.php:2873
+msgid "Line Four"
+msgstr ""
+
+#: inc/visual-composer.php:704 inc/visual-composer.php:1874
+#: inc/visual-composer.php:2642
+msgid "Button Link / Text"
+msgstr ""
+
+#: inc/visual-composer.php:721 inc/visual-composer.php:723
+msgid "Static class name"
+msgstr ""
+
+#: inc/visual-composer.php:733 inc/visual-composer.php:735
+msgid "Heading class name"
+msgstr ""
+
+#: inc/visual-composer.php:745 inc/visual-composer.php:1457
+#: inc/visual-composer.php:1610 inc/visual-composer.php:1667
+#: inc/visual-composer.php:1715 inc/visual-composer.php:1957
+#: inc/visual-composer.php:2070 inc/visual-composer.php:2193
+#: inc/visual-composer.php:2282 inc/visual-composer.php:2386
+#: inc/visual-composer.php:2653 inc/visual-composer.php:2737
+#: inc/visual-composer.php:3087 inc/visual-composer.php:3167
+#: inc/visual-composer.php:3261 inc/visual-composer.php:3335
+#: inc/visual-composer.php:3504
+msgid "Extra class name"
+msgstr ""
+
+#: inc/visual-composer.php:747 inc/visual-composer.php:1459
+#: inc/visual-composer.php:1612 inc/visual-composer.php:1669
+#: inc/visual-composer.php:1717 inc/visual-composer.php:1959
+#: inc/visual-composer.php:2072 inc/visual-composer.php:2195
+#: inc/visual-composer.php:2284 inc/visual-composer.php:2388
+#: inc/visual-composer.php:2655 inc/visual-composer.php:2739
+#: inc/visual-composer.php:3089 inc/visual-composer.php:3169
+#: inc/visual-composer.php:3263 inc/visual-composer.php:3337
+#: inc/visual-composer.php:3506
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: inc/visual-composer.php:758
+msgid "Multi Section"
+msgstr ""
+
+#: inc/visual-composer.php:761
+msgid "Display multi section"
+msgstr ""
+
+#: inc/visual-composer.php:770
+msgid "why choose us"
+msgstr ""
+
+#: inc/visual-composer.php:771
+msgid "why choose us Two"
+msgstr ""
+
+#: inc/visual-composer.php:772
+msgid "Box Column"
+msgstr ""
+
+#: inc/visual-composer.php:773
+msgid "Banner Bottom Box"
+msgstr ""
+
+#: inc/visual-composer.php:774
+msgid "Agriculture Section Two"
+msgstr ""
+
+#: inc/visual-composer.php:775
+msgid "Agriculture Section Four"
+msgstr ""
+
+#: inc/visual-composer.php:776
+msgid "Factory Section Four"
+msgstr ""
+
+#: inc/visual-composer.php:783
+msgid "Left Background"
+msgstr ""
+
+#: inc/visual-composer.php:796
+msgid "Right Background"
+msgstr ""
+
+#: inc/visual-composer.php:857
+msgid "Background Image"
+msgstr ""
+
+#: inc/visual-composer.php:887
+msgid "Description One"
+msgstr ""
+
+#: inc/visual-composer.php:919
+msgid "Background Image Two"
+msgstr ""
+
+#: inc/visual-composer.php:949
+msgid "Description Two"
+msgstr ""
+
+#: inc/visual-composer.php:981
+msgid "Background Image Three"
+msgstr ""
+
+#: inc/visual-composer.php:1011
+msgid "Description Three"
+msgstr ""
+
+#: inc/visual-composer.php:1041
+msgid "Box 1 Title"
+msgstr ""
+
+#: inc/visual-composer.php:1054
+msgid "Box 1 icon"
+msgstr ""
+
+#: inc/visual-composer.php:1067
+msgid "Box 1 Text"
+msgstr ""
+
+#: inc/visual-composer.php:1080
+msgid "Box 2 Title"
+msgstr ""
+
+#: inc/visual-composer.php:1093
+msgid "Box 2 icon"
+msgstr ""
+
+#: inc/visual-composer.php:1106
+msgid "Box 2 Text"
+msgstr ""
+
+#: inc/visual-composer.php:1119
+msgid "Box 3 Title"
+msgstr ""
+
+#: inc/visual-composer.php:1132
+msgid "Box 3 icon"
+msgstr ""
+
+#: inc/visual-composer.php:1145
+msgid "Box 3 Text"
+msgstr ""
+
+#: inc/visual-composer.php:1158
+msgid "Box 4 Title"
+msgstr ""
+
+#: inc/visual-composer.php:1171
+msgid "Box 4 icon"
+msgstr ""
+
+#: inc/visual-composer.php:1184
+msgid "Box 4 Text"
+msgstr ""
+
+#: inc/visual-composer.php:1197
+msgid "Box 5 Title"
+msgstr ""
+
+#: inc/visual-composer.php:1210
+msgid "Box 5 icon"
+msgstr ""
+
+#: inc/visual-composer.php:1223
+msgid "Box 5 Text"
+msgstr ""
+
+#: inc/visual-composer.php:1236
+msgid "Box 6 Title"
+msgstr ""
+
+#: inc/visual-composer.php:1249
+msgid "Box 6 icon"
+msgstr ""
+
+#: inc/visual-composer.php:1262
+msgid "Box 6 Text"
+msgstr ""
+
+#: inc/visual-composer.php:1275
+msgid "Project Starting Date Text"
+msgstr ""
+
+#: inc/visual-composer.php:1288
+msgid "Project Starting Date"
+msgstr ""
+
+#: inc/visual-composer.php:1301
+msgid "Project End Date Text"
+msgstr ""
+
+#: inc/visual-composer.php:1314
+msgid "Project End Date"
+msgstr ""
+
+#: inc/visual-composer.php:1327 inc/visual-composer.php:3017
+msgid "Category Text"
+msgstr ""
+
+#: inc/visual-composer.php:1340
+msgid "Facebook Icon"
+msgstr ""
+
+#: inc/visual-composer.php:1353
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/visual-composer.php:1366
+msgid "Twitter Icon"
+msgstr ""
+
+#: inc/visual-composer.php:1379
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/visual-composer.php:1392
+msgid "Google Icon"
+msgstr ""
+
+#: inc/visual-composer.php:1405
+msgid "Google URL"
+msgstr ""
+
+#: inc/visual-composer.php:1418
+msgid "Linkedin Icon"
+msgstr ""
+
+#: inc/visual-composer.php:1431
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/visual-composer.php:1444
+msgid "Category"
+msgstr ""
+
+#: inc/visual-composer.php:1491
+msgid "TMC Services"
+msgstr ""
+
+#: inc/visual-composer.php:1494
+msgid "Display Services"
+msgstr ""
+
+#: inc/visual-composer.php:1499 inc/visual-composer.php:2323
+msgid "Services layout"
+msgstr ""
+
+#: inc/visual-composer.php:1501
+msgid "The layout your services being display"
+msgstr ""
+
+#: inc/visual-composer.php:1503 inc/visual-composer.php:2095
+msgid "Layout 1"
+msgstr ""
+
+#: inc/visual-composer.php:1504 inc/visual-composer.php:2096
+msgid "Layout 2"
+msgstr ""
+
+#: inc/visual-composer.php:1505 inc/visual-composer.php:2097
+msgid "Layout 3"
+msgstr ""
+
+#: inc/visual-composer.php:1506 inc/visual-composer.php:2098
+msgid "Layout 4"
+msgstr ""
+
+#: inc/visual-composer.php:1507
+msgid "Layout 5"
+msgstr ""
+
+#: inc/visual-composer.php:1508
+msgid "Layout 6"
+msgstr ""
+
+#: inc/visual-composer.php:1509
+msgid "Layout 7"
+msgstr ""
+
+#: inc/visual-composer.php:1510
+msgid "Layout 8"
+msgstr ""
+
+#: inc/visual-composer.php:1515 inc/visual-composer.php:1887
+#: inc/visual-composer.php:1993 inc/visual-composer.php:2103
+#: inc/visual-composer.php:2244 inc/visual-composer.php:2336
+#: inc/visual-composer.php:2686 inc/visual-composer.php:3298
+msgid "Orderby"
+msgstr ""
+
+#: inc/visual-composer.php:1517 inc/visual-composer.php:1889
+#: inc/visual-composer.php:1995 inc/visual-composer.php:2105
+#: inc/visual-composer.php:2246 inc/visual-composer.php:2338
+#: inc/visual-composer.php:2688 inc/visual-composer.php:3300
+msgid "Sort retrieved posts/pages by parameter"
+msgstr ""
+
+#: inc/visual-composer.php:1524 inc/visual-composer.php:1893
+#: inc/visual-composer.php:1999 inc/visual-composer.php:2109
+#: inc/visual-composer.php:2250 inc/visual-composer.php:2342
+#: inc/visual-composer.php:2692 inc/visual-composer.php:3307
+msgid "Random"
+msgstr ""
+
+#: inc/visual-composer.php:1525 inc/visual-composer.php:1894
+#: inc/visual-composer.php:2000 inc/visual-composer.php:2110
+#: inc/visual-composer.php:2251 inc/visual-composer.php:2343
+#: inc/visual-composer.php:2693 inc/visual-composer.php:3308
+msgid "Date"
+msgstr ""
+
+#: inc/visual-composer.php:1531 inc/visual-composer.php:1899
+#: inc/visual-composer.php:2005 inc/visual-composer.php:2115
+#: inc/visual-composer.php:2256 inc/visual-composer.php:2348
+#: inc/visual-composer.php:2698 inc/visual-composer.php:3314
+msgid "Order"
+msgstr ""
+
+#: inc/visual-composer.php:1533 inc/visual-composer.php:1901
+#: inc/visual-composer.php:2007 inc/visual-composer.php:2117
+#: inc/visual-composer.php:2258 inc/visual-composer.php:2350
+#: inc/visual-composer.php:2700 inc/visual-composer.php:3287
+#: inc/visual-composer.php:3316
+msgid "Ascending or descending order"
+msgstr ""
+
+#: inc/visual-composer.php:1536 inc/visual-composer.php:1904
+#: inc/visual-composer.php:2010 inc/visual-composer.php:2120
+#: inc/visual-composer.php:2261 inc/visual-composer.php:2353
+#: inc/visual-composer.php:2703 inc/visual-composer.php:3319
+msgid "DESC"
+msgstr ""
+
+#: inc/visual-composer.php:1537 inc/visual-composer.php:1905
+#: inc/visual-composer.php:2011 inc/visual-composer.php:2121
+#: inc/visual-composer.php:2262 inc/visual-composer.php:2354
+#: inc/visual-composer.php:2704 inc/visual-composer.php:3320
+msgid "ASC"
+msgstr ""
+
+#: inc/visual-composer.php:1542 inc/visual-composer.php:1910
+#: inc/visual-composer.php:2267 inc/visual-composer.php:2359
+msgid "Categories List"
+msgstr ""
+
+#: inc/visual-composer.php:1544 inc/visual-composer.php:1912
+#: inc/visual-composer.php:2269 inc/visual-composer.php:2361
+msgid "Select a categorie."
+msgstr ""
+
+#: inc/visual-composer.php:1550 inc/visual-composer.php:1933
+#: inc/visual-composer.php:2034 inc/visual-composer.php:2147
+#: inc/visual-composer.php:2275 inc/visual-composer.php:2367
+#: inc/visual-composer.php:2710 inc/visual-composer.php:3327
+msgid "Number of posts"
+msgstr ""
+
+#: inc/visual-composer.php:1557 inc/visual-composer.php:2016
+#: inc/visual-composer.php:2126 inc/visual-composer.php:2374
+#: inc/visual-composer.php:2717
+msgid "Column"
+msgstr ""
+
+#: inc/visual-composer.php:1559 inc/visual-composer.php:2018
+#: inc/visual-composer.php:2128 inc/visual-composer.php:2376
+#: inc/visual-composer.php:2719
+msgid "How many column will be display on a row?"
+msgstr ""
+
+#: inc/visual-composer.php:1561 inc/visual-composer.php:2020
+#: inc/visual-composer.php:2130 inc/visual-composer.php:2378
+#: inc/visual-composer.php:2721
+msgid "2 Columns"
+msgstr ""
+
+#: inc/visual-composer.php:1562 inc/visual-composer.php:2021
+#: inc/visual-composer.php:2131 inc/visual-composer.php:2379
+#: inc/visual-composer.php:2722
+msgid "3 Columns"
+msgstr ""
+
+#: inc/visual-composer.php:1563 inc/visual-composer.php:2132
+#: inc/visual-composer.php:2380 inc/visual-composer.php:2723
+msgid "4 Columns"
+msgstr ""
+
+#: inc/visual-composer.php:1580
+msgid "Enable Arrow"
+msgstr ""
+
+#: inc/visual-composer.php:1581 inc/visual-composer.php:1772
+#: inc/visual-composer.php:1786 inc/visual-composer.php:1918
+msgid "Yes."
+msgstr ""
+
+#: inc/visual-composer.php:1593 inc/visual-composer.php:1941
+msgid "Read more text"
+msgstr ""
+
+#: inc/visual-composer.php:1623
+msgid "TMC Heading"
+msgstr ""
+
+#: inc/visual-composer.php:1626 inc/visual-composer.php:1683
+msgid "Display Heading"
+msgstr ""
+
+#: inc/visual-composer.php:1631
+msgid "Heading layout"
+msgstr ""
+
+#: inc/visual-composer.php:1633
+msgid "The layout your heading being display"
+msgstr ""
+
+#: inc/visual-composer.php:1635 inc/visual-composer.php:2238
+msgid "Style One"
+msgstr ""
+
+#: inc/visual-composer.php:1640
+msgid "Heading Tag"
+msgstr ""
+
+#: inc/visual-composer.php:1642
+msgid "Select heading tag"
+msgstr ""
+
+#: inc/visual-composer.php:1644
+msgid "H1"
+msgstr ""
+
+#: inc/visual-composer.php:1645
+msgid "H2"
+msgstr ""
+
+#: inc/visual-composer.php:1646
+msgid "H3"
+msgstr ""
+
+#: inc/visual-composer.php:1647
+msgid "H4"
+msgstr ""
+
+#: inc/visual-composer.php:1648
+msgid "H5"
+msgstr ""
+
+#: inc/visual-composer.php:1649
+msgid "H6"
+msgstr ""
+
+#: inc/visual-composer.php:1661 inc/visual-composer.php:1709
+#: inc/visual-composer.php:3161 inc/visual-composer.php:3255
+msgid "Container class"
+msgstr ""
+
+#: inc/visual-composer.php:1663 inc/visual-composer.php:1711
+#: inc/visual-composer.php:3163 inc/visual-composer.php:3257
+msgid "Enter class here."
+msgstr ""
+
+#: inc/visual-composer.php:1680
+msgid "TMC Services Section"
+msgstr ""
+
+#: inc/visual-composer.php:1702
+msgid "Content"
+msgstr ""
+
+#: inc/visual-composer.php:1749
+msgid "TMC Projects"
+msgstr ""
+
+#: inc/visual-composer.php:1752
+msgid "Display Projects"
+msgstr ""
+
+#: inc/visual-composer.php:1757
+msgid "Projects layout"
+msgstr ""
+
+#: inc/visual-composer.php:1759
+msgid "The layout your projects being display"
+msgstr ""
+
+#: inc/visual-composer.php:1761
+msgid "Projects Layout One"
+msgstr ""
+
+#: inc/visual-composer.php:1762
+msgid "Projects Layout Two"
+msgstr ""
+
+#: inc/visual-composer.php:1763
+msgid "Projects Layout Three"
+msgstr ""
+
+#: inc/visual-composer.php:1764
+msgid "Projects Layout Home6"
+msgstr ""
+
+#: inc/visual-composer.php:1765
+msgid "Projects Layout Home7"
+msgstr ""
+
+#: inc/visual-composer.php:1766
+msgid "Projects Layout Home8"
+msgstr ""
+
+#: inc/visual-composer.php:1771
+msgid "Enable Title"
+msgstr ""
+
+#: inc/visual-composer.php:1785
+msgid "Enable Title Line"
+msgstr ""
+
+#: inc/visual-composer.php:1797
+msgid "Project Title 1"
+msgstr ""
+
+#: inc/visual-composer.php:1799
+msgid "Enter Line title text here."
+msgstr ""
+
+#: inc/visual-composer.php:1809
+msgid "Project Title"
+msgstr ""
+
+#: inc/visual-composer.php:1811
+msgid "Enter Project Title here."
+msgstr ""
+
+#: inc/visual-composer.php:1824
+msgid "Project Title Content Text"
+msgstr ""
+
+#: inc/visual-composer.php:1826
+msgid "Enter Content text here."
+msgstr ""
+
+#: inc/visual-composer.php:1837
+msgid "Title Color"
+msgstr ""
+
+#: inc/visual-composer.php:1851
+msgid "Title Line Color"
+msgstr ""
+
+#: inc/visual-composer.php:1863
+msgid "Title1 Text Color"
+msgstr ""
+
+#: inc/visual-composer.php:1917
+msgid "Disable filter"
+msgstr ""
+
+#: inc/visual-composer.php:1969
+msgid "TMC Testimonials"
+msgstr ""
+
+#: inc/visual-composer.php:1972
+msgid "Display Testimonials"
+msgstr ""
+
+#: inc/visual-composer.php:1977
+msgid "Testimonials layout"
+msgstr ""
+
+#: inc/visual-composer.php:1979
+msgid "The layout your testimonials being display"
+msgstr ""
+
+#: inc/visual-composer.php:1981
+msgid "Carousel"
+msgstr ""
+
+#: inc/visual-composer.php:1982 inc/visual-composer.php:3291
+msgid "Grid"
+msgstr ""
+
+#: inc/visual-composer.php:1983
+msgid "Carousel Two"
+msgstr ""
+
+#: inc/visual-composer.php:1984
+msgid "Carousel Three"
+msgstr ""
+
+#: inc/visual-composer.php:1985
+msgid "Carousel Four"
+msgstr ""
+
+#: inc/visual-composer.php:1986
+msgid "Carousel Five"
+msgstr ""
+
+#: inc/visual-composer.php:1987
+msgid "Carousel Six"
+msgstr ""
+
+#: inc/visual-composer.php:2058
+msgid "background Color"
+msgstr ""
+
+#: inc/visual-composer.php:2082
+msgid "TMC News"
+msgstr ""
+
+#: inc/visual-composer.php:2085
+msgid "Display News"
+msgstr ""
+
+#: inc/visual-composer.php:2090
+msgid "Layour"
+msgstr ""
+
+#: inc/visual-composer.php:2092
+msgid "Select the layout of news"
+msgstr ""
+
+#: inc/visual-composer.php:2154
+msgid "By Text"
+msgstr ""
+
+#: inc/visual-composer.php:2156 inc/visual-composer.php:2182
+msgid "Enter text here."
+msgstr ""
+
+#: inc/visual-composer.php:2167
+msgid "By Text limit"
+msgstr ""
+
+#: inc/visual-composer.php:2169
+msgid "Enter text limit here."
+msgstr ""
+
+#: inc/visual-composer.php:2180
+msgid "Comment Text"
+msgstr ""
+
+#: inc/visual-composer.php:2226
+msgid "TMC Client"
+msgstr ""
+
+#: inc/visual-composer.php:2229
+msgid "Display Client"
+msgstr ""
+
+#: inc/visual-composer.php:2234
+msgid "Client layout"
+msgstr ""
+
+#: inc/visual-composer.php:2236
+msgid "The layout your client being display"
+msgstr ""
+
+#: inc/visual-composer.php:2315
+msgid "TMC Team"
+msgstr ""
+
+#: inc/visual-composer.php:2318
+msgid "Display Team"
+msgstr ""
+
+#: inc/visual-composer.php:2325
+msgid "The layout your team being display"
+msgstr ""
+
+#: inc/visual-composer.php:2327
+msgid "Experienced"
+msgstr ""
+
+#: inc/visual-composer.php:2328
+msgid "Company"
+msgstr ""
+
+#: inc/visual-composer.php:2329
+msgid "Demo 2"
+msgstr ""
+
+#: inc/visual-composer.php:2330
+msgid "Demo 3"
+msgstr ""
+
+#: inc/visual-composer.php:2398
+msgid "Tmc Brocher Download Button"
+msgstr ""
+
+#: inc/visual-composer.php:2401 inc/visual-composer.php:3102
+#: inc/visual-composer.php:3182
+msgid "Display Download Button"
+msgstr ""
+
+#: inc/visual-composer.php:2413 inc/visual-composer.php:2417
+msgid "Text on the button"
+msgstr ""
+
+#: inc/visual-composer.php:2418
+msgid "Text on the button."
+msgstr ""
+
+#: inc/visual-composer.php:2422
+msgid "File URL (Link)"
+msgstr ""
+
+#: inc/visual-composer.php:2424
+msgid "Select the file to be downloaded."
+msgstr ""
+
+#: inc/visual-composer.php:2434
+msgid "Tmc Maintenance"
+msgstr ""
+
+#: inc/visual-composer.php:2437
+msgid "Display maintenance"
+msgstr ""
+
+#: inc/visual-composer.php:2450
+msgid "Tmc Coming Soon"
+msgstr ""
+
+#: inc/visual-composer.php:2453
+msgid "Display coming soon"
+msgstr ""
+
+#: inc/visual-composer.php:2459
+msgid "Logo"
+msgstr ""
+
+#: inc/visual-composer.php:2472
+msgid "Day Text"
+msgstr ""
+
+#: inc/visual-composer.php:2479
+msgid "Day Number"
+msgstr ""
+
+#: inc/visual-composer.php:2486
+msgid "Hour Text"
+msgstr ""
+
+#: inc/visual-composer.php:2493
+msgid "Hour Number"
+msgstr ""
+
+#: inc/visual-composer.php:2501
+msgid "Minute Text"
+msgstr ""
+
+#: inc/visual-composer.php:2508
+msgid "Minute Number"
+msgstr ""
+
+#: inc/visual-composer.php:2515
+msgid "Second Text"
+msgstr ""
+
+#: inc/visual-composer.php:2522
+msgid "Second Number"
+msgstr ""
+
+#: inc/visual-composer.php:2529
+msgid "Button Text"
+msgstr ""
+
+#: inc/visual-composer.php:2545
+msgid "Single Service"
+msgstr ""
+
+#: inc/visual-composer.php:2548
+msgid "Display single service"
+msgstr ""
+
+#: inc/visual-composer.php:2557 inc/visual-composer.php:2763
+#: inc/visual-composer.php:3359
+msgid "Image and Text"
+msgstr ""
+
+#: inc/visual-composer.php:2558
+msgid "Image and Text Two"
+msgstr ""
+
+#: inc/visual-composer.php:2559
+msgid "Two Image and Text"
+msgstr ""
+
+#: inc/visual-composer.php:2566
+msgid "Image Align"
+msgstr ""
+
+#: inc/visual-composer.php:2568
+msgid "Align your image being display"
+msgstr ""
+
+#: inc/visual-composer.php:2666
+msgid "TMC Portfolio"
+msgstr ""
+
+#: inc/visual-composer.php:2669
+msgid "Display portfolio"
+msgstr ""
+
+#: inc/visual-composer.php:2674
+msgid "Portfolio layout"
+msgstr ""
+
+#: inc/visual-composer.php:2676
+msgid "The layout your portfolio being display"
+msgstr ""
+
+#: inc/visual-composer.php:2678
+msgid "Portfolio Three"
+msgstr ""
+
+#: inc/visual-composer.php:2679
+msgid "Portfolio Four"
+msgstr ""
+
+#: inc/visual-composer.php:2680
+msgid "Portfolio Five"
+msgstr ""
+
+#: inc/visual-composer.php:2724
+msgid "5 Columns"
+msgstr ""
+
+#: inc/visual-composer.php:2730
+msgid "View Project text"
+msgstr ""
+
+#: inc/visual-composer.php:2751
+msgid "Single Portfolio"
+msgstr ""
+
+#: inc/visual-composer.php:2754
+msgid "Display single portfolio"
+msgstr ""
+
+#: inc/visual-composer.php:2764
+msgid "Project Details"
+msgstr ""
+
+#: inc/visual-composer.php:2765
+msgid "Title Text"
+msgstr ""
+
+#: inc/visual-composer.php:2766
+msgid "Info And Image"
+msgstr ""
+
+#: inc/visual-composer.php:2767
+msgid "Single Image"
+msgstr ""
+
+#: inc/visual-composer.php:2768
+msgid "Title Text Bold"
+msgstr ""
+
+#: inc/visual-composer.php:2769
+msgid "Right Image and Text"
+msgstr ""
+
+#: inc/visual-composer.php:2770
+msgid "Info And Left Image"
+msgstr ""
+
+#: inc/visual-composer.php:2771
+msgid "Right image and Text"
+msgstr ""
+
+#: inc/visual-composer.php:2887
+msgid "Client Text"
+msgstr ""
+
+#: inc/visual-composer.php:2900
+msgid "Client Name"
+msgstr ""
+
+#: inc/visual-composer.php:2913
+msgid "Skill Text"
+msgstr ""
+
+#: inc/visual-composer.php:2926
+msgid "Skill Name"
+msgstr ""
+
+#: inc/visual-composer.php:2939
+msgid "Web Text"
+msgstr ""
+
+#: inc/visual-composer.php:2952
+msgid "Web Name"
+msgstr ""
+
+#: inc/visual-composer.php:2965
+msgid "Start Date Text"
+msgstr ""
+
+#: inc/visual-composer.php:2978
+msgid "Start Date"
+msgstr ""
+
+#: inc/visual-composer.php:2991
+msgid "End Date Text"
+msgstr ""
+
+#: inc/visual-composer.php:3004
+msgid "End Date"
+msgstr ""
+
+#: inc/visual-composer.php:3030
+msgid "Category Name"
+msgstr ""
+
+#: inc/visual-composer.php:3043
+msgid "Facebook Link"
+msgstr ""
+
+#: inc/visual-composer.php:3054
+msgid "Twitter Link"
+msgstr ""
+
+#: inc/visual-composer.php:3065
+msgid "Google Plus Link"
+msgstr ""
+
+#: inc/visual-composer.php:3076
+msgid "Linkedin Link"
+msgstr ""
+
+#: inc/visual-composer.php:3099
+msgid "TMC Business Consultant"
+msgstr ""
+
+#: inc/visual-composer.php:3107
+msgid "Title 1"
+msgstr ""
+
+#: inc/visual-composer.php:3114
+msgid "Title 2"
+msgstr ""
+
+#: inc/visual-composer.php:3121
+msgid "Title 3"
+msgstr ""
+
+#: inc/visual-composer.php:3128
+msgid "Description 1"
+msgstr ""
+
+#: inc/visual-composer.php:3135
+msgid "Description 2"
+msgstr ""
+
+#: inc/visual-composer.php:3142
+msgid "Description 3"
+msgstr ""
+
+#: inc/visual-composer.php:3149
+msgid "Title - Color"
+msgstr ""
+
+#: inc/visual-composer.php:3155
+msgid "Description - Color"
+msgstr ""
+
+#: inc/visual-composer.php:3179
+msgid "TMC Contact Icon"
+msgstr ""
+
+#: inc/visual-composer.php:3187
+msgid "Icon 1"
+msgstr ""
+
+#: inc/visual-composer.php:3194
+msgid "URL 1"
+msgstr ""
+
+#: inc/visual-composer.php:3201
+msgid "Icon 2"
+msgstr ""
+
+#: inc/visual-composer.php:3208
+msgid "URL 2"
+msgstr ""
+
+#: inc/visual-composer.php:3215
+msgid "Icon 3"
+msgstr ""
+
+#: inc/visual-composer.php:3222
+msgid "URL 3"
+msgstr ""
+
+#: inc/visual-composer.php:3229
+msgid "Icon 4"
+msgstr ""
+
+#: inc/visual-composer.php:3236
+msgid "URL 4"
+msgstr ""
+
+#: inc/visual-composer.php:3243
+msgid "Icon - Color"
+msgstr ""
+
+#: inc/visual-composer.php:3249
+msgid "Background - Color"
+msgstr ""
+
+#: inc/visual-composer.php:3274
+msgid "TMC Blog Full"
+msgstr ""
+
+#: inc/visual-composer.php:3276
+msgid "indofact Blog Full"
+msgstr ""
+
+#: inc/visual-composer.php:3277
+msgid "Display Blog Full"
+msgstr ""
+
+#: inc/visual-composer.php:3290
+msgid "Full"
+msgstr ""
+
+#: inc/visual-composer.php:3303
+msgid "None"
+msgstr ""
+
+#: inc/visual-composer.php:3304
+msgid "ID"
+msgstr ""
+
+#: inc/visual-composer.php:3306
+msgid "Name"
+msgstr ""
+
+#: inc/visual-composer.php:3309
+msgid "Page Order"
+msgstr ""
+
+#: inc/visual-composer.php:3347
+msgid "Contact Info"
+msgstr ""
+
+#: inc/visual-composer.php:3350
+msgid "Display contact info"
+msgstr ""
+
+#: inc/visual-composer.php:3364
+msgid "Address Image"
+msgstr ""
+
+#: inc/visual-composer.php:3376
+msgid "Address Title"
+msgstr ""
+
+#: inc/visual-composer.php:3389
+msgid "Address Text"
+msgstr ""
+
+#: inc/visual-composer.php:3402
+msgid "Phone Image"
+msgstr ""
+
+#: inc/visual-composer.php:3414
+msgid "Phone Title"
+msgstr ""
+
+#: inc/visual-composer.php:3427
+msgid "Phone Text"
+msgstr ""
+
+#: inc/visual-composer.php:3440
+msgid "Phone Text Two"
+msgstr ""
+
+#: inc/visual-composer.php:3453
+msgid "Email Image"
+msgstr ""
+
+#: inc/visual-composer.php:3465
+msgid "Email Title"
+msgstr ""
+
+#: inc/visual-composer.php:3478
+msgid "Email Text"
+msgstr ""
+
+#: inc/visual-composer.php:3491
+msgid "Email Text Two"
+msgstr ""
+
+#: inc/footers/footer1.php:195 inc/footers/footer2.php:195
+#: inc/footers/footer3.php:218 inc/footers/footer4.php:195
+#: inc/footers/footer5.php:192
+msgid "Copyright 2019 Indofact. All Rights Reserved."
+msgstr ""
+
+#: inc/footers/footer1.php:198 inc/footers/footer2.php:198
+#: inc/footers/footer3.php:221 inc/footers/footer4.php:198
+#: inc/footers/footer5.php:195
+msgid "Developed by:"
+msgstr ""
+
+#: inc/footers/footer1.php:198 inc/footers/footer2.php:198
+#: inc/footers/footer3.php:221 inc/footers/footer4.php:198
+#: inc/footers/footer5.php:195
+msgid "ThemeChampion"
+msgstr ""
+
+#: inc/headers/header_style1.php:125 inc/headers/header_style10.php:86
+#: inc/headers/header_style2.php:77 inc/headers/header_style3.php:70
+#: inc/headers/header_style4.php:75 inc/headers/header_style5.php:75
+#: inc/headers/header_style6.php:94 inc/headers/header_style7.php:73
+#: inc/headers/header_style8.php:51 inc/headers/header_style8.php:80
+#: inc/headers/header_style8.php:132 inc/headers/header_style9.php:90
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:393 inc/tgm/tgm-plugin-activation.php:920
+#: inc/tgm/tgm-plugin-activation.php:2626
+#: inc/tgm/tgm-plugin-activation.php:3675
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:394
+#: inc/tgm/tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:395
+#: inc/tgm/tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:1027
+#: inc/tgm/tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:1214
+#: inc/tgm/tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2819
+#: inc/tgm/tgm-plugin-registration.php:174
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3592
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3595
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3597
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3601
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3603
+#: inc/tgm/tgm-plugin-activation.php:3611
+#, php-format
+msgid "%1$s done."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3604
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3606
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3609
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3612
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-activation.php:3614
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-registration.php:18
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-registration.php:28
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-registration.php:35
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-registration.php:43
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-registration.php:50
+msgid "MailChimp for WordPress Lite"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-registration.php:57
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-registration.php:83
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-registration.php:102
+msgid "Ultimate Addons for WPBakery Page Builder"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-registration.php:112
+msgid "WP Video Lightbox"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-registration.php:122
+msgid "Elementor"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-registration.php:162
+msgctxt "indofact"
+msgid "Welcome to "
+msgstr ""
+
+#: inc/tgm/tgm-plugin-registration.php:171
+msgid "Enter purchase key:"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-registration.php:172
+msgid "e.g. ab0yonv8-ww2po"
+msgstr ""
+
+#: inc/tgm/tgm-plugin-registration.php:193
+msgid "Thank you, your purchase code is valid and theme has been activated."
+msgstr ""
+
+#: inc/tgm/tgm-plugin-registration.php:199
+msgid ""
+"Oops, your purchase code is not valid. Please enter corerct code and try "
+"again !!!"
+msgstr ""
+
+#: vc_templates/tmc_blog_full.php:38
+msgid "BLOG"
+msgstr ""
+
+#: vc_templates/tmc_blog_full.php:63
+msgid "By: "
+msgstr ""
+
+#: vc_templates/tmc_blog_full.php:69
+msgid "Comments: "
+msgstr ""
+
+#: vc_templates/tmc_blog_full.php:96
+msgid "Sorry, there is no child pages under your selected page."
+msgstr ""
+
+#: vc_templates/tmc_brochure_button.php:10
+msgid "Sorry, there is no button."
+msgstr ""
+
+#: vc_templates/tmc_client.php:42
+msgid "Sorry, there is no client under your selected page."
+msgstr ""
+
+#: vc_templates/tmc_news.php:63 vc_templates/tmc_news.php:98
+#: vc_templates/tmc_news.php:167 vc_templates/tmc_news.php:200
+msgid "Sorry, there is no news under your selected page."
+msgstr ""
+
+#: vc_templates/tmc_portfolio.php:41 vc_templates/tmc_portfolio.php:102
+#: vc_templates/tmc_portfolio.php:165
+msgid "All Projects "
+msgstr ""
+
+#: vc_templates/tmc_portfolio.php:221
+msgid "Sorry, there is no portfolio under your selected page."
+msgstr ""
+
+#: vc_templates/tmc_projects.php:43
+msgid "All Projects"
+msgstr ""
+
+#: vc_templates/tmc_projects.php:755
+msgid "Sorry, there is no projects under your selected page."
+msgstr ""
+
+#: vc_templates/tmc_services.php:341
+msgid "Sorry, there is no service under your selected page."
+msgstr ""
+
+#: vc_templates/tmc_team.php:191
+msgid "Sorry, there is no team under your selected page."
+msgstr ""
+
+#: vc_templates/tmc_testimonials.php:75
+msgid "Previous"
+msgstr ""
+
+#: vc_templates/tmc_testimonials.php:79
+msgid "Next"
+msgstr ""
+
+#: vc_templates/tmc_testimonials.php:353
+msgid "Sorry, there is no testimonial under your selected page."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:32
+#, php-format
+msgid "%s review for %s%s%s"
+msgid_plural "%s reviews for %s%s%s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:34
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:55
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:103
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:31
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:28
+msgid "YOUR ORDER"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:29
+msgid "Sub total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:45
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:51
+msgid "Grand Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:72
+#: woocommerce/checkout/review-order.php:23
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:93
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:39
+msgid "QTY"
+msgstr ""
+
+#: woocommerce/cart/cart.php:40
+msgid "SUBTOTAL"
+msgstr ""
+
+#: woocommerce/cart/cart.php:88
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:99
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:116 woocommerce/checkout/review-order.php:23
+#: woocommerce/checkout/review-order.php:96
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Update Shopping Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:161
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:162
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "Billing Details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:53
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:64
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:53
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:29
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:41
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:42
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:47
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:31
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:33
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:43
+msgid "Order Number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:47
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:51
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:56
+msgid "Payment Method:"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:24
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:38
+#, php-format
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/loop/result-count.php:40
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-image.php:57
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/related.php:49
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review-rating.php:27
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review-rating.php:28
+msgid "out of 5"
+msgstr ""
